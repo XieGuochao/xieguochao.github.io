@@ -101,7 +101,7 @@ Programming Skills:
 
 Language Skills:
 
-- TOFEL: 103
+- TOEFL: 103
 - Native Chinese and Cantonese speaker.
 
 ---
