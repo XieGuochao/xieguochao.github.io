@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Undergraduate Student at The Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
-  employer         :
+  employer         : "Polaris Studio"
   pubmed           : 
   googlescholar    : 
   email            : "guochaoxie@link.cuhk.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "http://www.polarisstudio.cn/"
   bitbucket        :
   codepen          :
   dribbble         :

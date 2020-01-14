@@ -9,3 +9,6 @@ main:
 
   - title: "Schedule"
     url: /schedule/
+  
+  - title: "Projects"
+    url: /projects/
