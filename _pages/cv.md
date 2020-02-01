@@ -13,12 +13,12 @@ Education
 =========
 2017.09 - 2021.05 &emsp; **The Chinese University of Hong Kong, Shenzhen** &emsp; Bachelor of Science in Computer Science and Engineering.
 
-- Cummulative GPA: 3.804
-- Major GPA: 3.984
+- Cummulative GPA: 3.811
+- Major GPA: 3.903
 - Rank: 
   - In major: 3 / 121
   - In School of Science and Engineering: 13 / 409
-- Core Courses: _Programming (C++, Python), Computer Architecture, Data Structures, Databases, Cloud Computing, Distributed and Parallel Computing, Software Engineering_
+- Core Courses: _Programming (C++, Python), Computer Architecture, Data Structures, Databases, Cloud Computing, Distributed and Parallel Computing, Software Engineering, Probabilities, Stochastic Processes_
 
 ---
 
@@ -34,9 +34,11 @@ Achievements
 ===
 
 - 2019.12 &emsp; **Second-class Scholarship in 2018-2019** &emsp; The Chinese University of Hong Kong, Shenzhen
+- 2019.09 &emsp; **Dean's List** &emsp; The Chinese University of Hong Kong, Shenzhen
 - 2019.01 &emsp; **Meritorious Winner** &emsp; Interdisciplinary Contest in Modelling (MCM/ICM)
 - 2019.01 &emsp; **Best Presenter in the Final** &emsp; Global AI Transmission Competition
 - 2018.12 &emsp; **Second-class Scholarship in 2017-2018** &emsp; The Chinese University of Hong Kong, Shenzhen
+- 2018.09 &emsp; **Dean's List** &emsp; The Chinese University of Hong Kong, Shenzhen
 - 2018.09 &emsp; **Second Prize in South China** &emsp; National WeChat Mini App Development Contest
 
 
@@ -102,6 +104,7 @@ Programming Skills:
 Language Skills:
 
 - TOEFL: 103
+- GRE: 152 + 169 + 4.0
 - Native Chinese and Cantonese speaker.
 
 ---
