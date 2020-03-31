@@ -16,8 +16,8 @@ Education
 - Cummulative GPA: 3.811
 - Major GPA: 3.903
 - Rank: 
-  - In major: 3 / 121
-  - In School of Science and Engineering: 13 / 409
+  - In major: 2 / 121
+  - In School of Science and Engineering: 12 / 409
 - Core Courses: _Programming (C++, Python), Computer Architecture, Data Structures, Databases, Cloud Computing, Distributed and Parallel Computing, Software Engineering, Probabilities, Stochastic Processes_
 
 ---
@@ -98,7 +98,7 @@ Skills
 
 Programming Skills:
 
-- Languages: Python, C, C++, Java, JavaScript, MATLAB, SQL, Go.
+- Languages: **Python**, C, C++, Java, JavaScript, MATLAB, SQL, **Go**.
 - Frameworks: MxNet, Numpy, Pandas, React.js, Django, Flask, Gin, MySQL.
 
 Language Skills:
@@ -113,4 +113,5 @@ Reference Links
 ===
 
 - GitHub: [XieGuochao](https://github.com/XieGuochao)
+- Gitee:  [PolarisDavid](https://gitee.com/polarisdavid)
 - LinkedIn: [xieguochao](https://www.linkedin.com/in/xieguochao/)
