@@ -19,7 +19,6 @@ Responsibility
 My responsibility is to hold 2 tutorial sessions every week.
 
 - Tutorial Time:
-  - 18:00 - 19:20, Wednesday
   - 14:00 - 15:20, Thursday
 - Office Hour:
   - 15:30 - 16:30, Tuesday
@@ -28,4 +27,4 @@ Supplemental Materails
 ======
 The following is a list of supplemental materails I used. They have been open-sourced on GitHub so you can feel free to cite and use them.
 
-- Supplemental Meterials Repository: [https://github.com/XieGuochao/CSC1002_Supplemental](https://github.com/XieGuochao/CSC1002_Supplemental)
+- Supplemental Meterials Repository: [http://193.112.122.126:8890/](http://193.112.122.126:8890/), Password: CSC1002!
