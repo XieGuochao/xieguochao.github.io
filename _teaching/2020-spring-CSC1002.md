@@ -16,7 +16,7 @@ This course mainly covers Python programming with practical projects.
 
 Responsibility
 ======
-My responsibility is to hold 2 tutorial sessions every week.
+My responsibility is to hold 1 tutorial sessions every week.
 
 - Tutorial Time:
   - 14:00 - 15:20, Thursday
