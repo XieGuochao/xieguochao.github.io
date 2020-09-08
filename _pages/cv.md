@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**PDF Version**](/files/cv-guochao-xie-20200808.pdf)
+[**PDF Version**](/files/Resume-Guochao-Xie-20200908.pdf)
 
 Education
 =========
