@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-[**PDF Version**](/files/Resume-Guochao-Xie-20200913.pdf)
+[**PDF Version**](/files/Resume-Guochao-Xie-20201018.pdf)
 
 Education
 =========
 2017.09 - 2021.05 &emsp; **The Chinese University of Hong Kong, Shenzhen** &emsp; Bachelor of Science in Computer Science and Engineering.
 
-- Cummulative GPA: 3.815
-- Major GPA: 3.903
+- Cummulative GPA: 3.837
+- Major GPA: 3.928
 - Rank: 
   - In major: 2 / 121
-  - In School of Science and Engineering: 12 / 409
+  - In School of Data Science: 8 / 279
 - Core Courses: _Programming (C++, Python), Computer Architecture, Data Structures, Databases, Cloud Computing, Distributed and Parallel Computing, Software Engineering, Probabilities, Stochastic Processes_
 
 ---
@@ -128,7 +128,7 @@ Skills
 Programming Skills:
 
 - Languages: **Python**, C, C++, Java, JavaScript, MATLAB, SQL, **Go**.
-- Frameworks: MxNet, Numpy, Pandas, React.js, Django, Flask, Gin, MySQL, Latex, Ghost.
+- Frameworks: Kubernetes, MxNet, Numpy, Pandas, React.js, Django, Flask, Gin, MySQL, Latex, Ghost.
 
 Language Skills:
 
