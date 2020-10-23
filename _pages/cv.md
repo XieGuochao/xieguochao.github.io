@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**PDF Version**](/files/Resume-Guochao-Xie-20201018.pdf)
+[**PDF Version**](/files/Resume-Guochao-Xie-20201023.pdf)
 
 Education
 =========
@@ -133,7 +133,7 @@ Programming Skills:
 Language Skills:
 
 - TOEFL: 103
-- GRE: 153 + 170 + 4.0
+- GRE: 158 + 170 + 3.5
 - Native Chinese and Cantonese speaker.
 
 ---
