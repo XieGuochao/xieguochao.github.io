@@ -68,11 +68,9 @@ Experiences In Progress
 
 ---
 
-2018.04 - &emsp; **Polaris Studio** &emsp; Co-founder.
+2020.07 -  &emsp; **Apartsa Co. Ltd.** &emsp; CTO.
 
-- A startup team providing software services and building softwares.
-- Manage a 10-person team.
-
+- [https://apartsa.com/](Apartsa).
 
 ---
 
@@ -106,6 +104,12 @@ and the Bitcoin price.
 - Designed the user-friendly interface and wrote the program in a 2-person group.
 
 ---
+
+2018.04 - 2020.04 &emsp; **Polaris Studio** &emsp; Co-founder.
+
+- A startup team providing software services and building softwares.
+- Manage a 10-person team.
+
 
 Research Advisors
 ===============
